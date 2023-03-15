@@ -9,4 +9,4 @@
 
 # COMMAND ----------
 
-_sqldf.toPandas().to_csv('data/mau_test.csv')
+_sqldf.toPandas().to_csv('https://github.com/NEAR-Analytics/NEAR-Social/data/mau_test.csv')
