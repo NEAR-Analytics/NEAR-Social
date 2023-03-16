@@ -1,0 +1,6 @@
+# fill this gitignore for a python a project:
+#
+#
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.DS_Store
